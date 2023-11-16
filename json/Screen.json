@@ -1,0 +1,167 @@
+[
+
+
+    {
+      "img" : "visual1.png",
+      "name" : "개폐막작 : 개막작",
+      "title" : "한국이 싫어서",
+      "engTitle" : "Because I Hate Korea",
+      "director" : "장건재 JANG Kun-jae",
+      "info" : "Korea | 2023 | 106min",
+      "keyword" : "2016 APM 프로젝트"
+    },
+    {
+      "img" : "visual3.png",
+      "name" : "개폐막작 : 폐막작",
+      "title" : "영화의 황제",
+      "engTitle" : "The Movie Emperor",
+      "director" : "닝하오 NING Hao",
+      "info" : "China | 2023 | 125min"
+
+    },
+    {
+      "img" : "screen01.png",
+      "name" : "아이콘",
+      "title" : "가여운 것들",
+      "engTitle" : "Poor Things",
+      "director" : "요르고스 란티모스 Yorgos LANTHIMOS",
+      "info" : "United Kingdom | 2023 | 141min",
+      "keyword" : "베니스영화제 황금사자상"
+
+    },
+    {
+      "img" : "screen02.png",
+      "name" : "아이콘",
+      "title" : "공드리의 솔루션북",
+      "engTitle" : "The Book of Solutions",
+      "director" : "미셸 공드리 Michel GONDRY",
+      "info" : "China | 2023 | 125min",
+      "keyword" : "칸영화제 감독주간"
+
+    },
+    {
+      "img" : "screen03.png",
+      "name" : "아이콘",
+      "title" : "나의 올드 오크",
+      "engTitle" : "The Old Oak",
+      "director" : "켄 로치 Ken LOACH",
+      "info" : "United Kingdom/France/Belgium | 2023 | 113min",
+      "keyword" : "칸영화제 경쟁"
+
+    },
+    {
+      "img" : "screen04.png",
+      "name" : "아이콘",
+      "title" : "납치",
+      "engTitle" : "Kidnapped",
+      "director" : "마르코 벨로키오 Marco BELLOCCHIO",
+      "info" : "Italy/France/Germany | 2023 | 134min",
+      "keyword" : "칸영화제 경쟁"
+
+    },
+    {
+      "img" : "screen05.png",
+      "name" : "아이콘",
+      "title" : "더 킬러",
+      "engTitle" : "The Killer",
+      "director" : "데이빗 핀처 David FINCHER",
+      "info" : "United States | 2023 | 118min",
+      "keyword" : "베니스영화제 경쟁"
+
+    },
+    {
+      "img" : "screen06.png",
+      "name" : "아이콘",
+      "title" : "라스트 썸머",
+      "engTitle" : "Last Summer",
+      "director" : "카트린느 브레야 Catherine BREILLAT",
+      "info" : "France | 2023 | 103min",
+      "keyword" : "칸영화제 경쟁"
+
+    },
+    {
+      "img" : "screen07.png",
+      "name" : "아이콘",
+      "title" : "마른 풀에 관하여",
+      "engTitle" : "About Dry Grasses",
+      "director" : "누리 빌게 제일란 Nuri BILGE CEYLAN",
+      "info" : "Turkiye/France/Germany/Sweden | 2023 | 197min",
+      "keyword" : "칸영화제 여우주연상"
+
+    },
+    {
+      "img" : "screen08.png",
+      "name" : "아이콘",
+      "title" : "메뉴의 즐거움 - 트와그로 가족",
+      "engTitle" : "Menus Plaisirs - Les Troisgros",
+      "director" : "프레데릭 와이즈먼 Frederick WISEMAN",
+      "info" : "United States/France | 2023 | 103min",
+      "keyword" : "베니스영화제 비경쟁"
+
+    },
+    {
+      "img" : "screen09.png",
+      "name" : "아이콘",
+      "title" : "물안에서",
+      "engTitle" : "IN WATER",
+      "director" : "홍상수 HONG Sangsoo",
+      "info" : "Korea | 2023 | 61min",
+      "keyword" : "베를린영화제 인카운터스"
+
+    },
+    {
+      "img" : "screen10.png",
+      "name" : "뉴커런츠",
+      "title" : "1923년 9월",
+      "engTitle" : "SEPTEMBER 1923",
+      "director" : "모리 다츠야 MORI Tatsuya",
+      "info" : "Japan | 2023 | 137min",
+      "keyword" : "2022 APM 프로젝트"
+
+    },
+    {
+      "img" : "screen11.png",
+      "name" : "뉴커런츠",
+      "title" : "그 여름날의 거짓말",
+      "engTitle" : "That Summer′s Lie",
+      "director" : "손현록 SOHN Hyun-lok",
+      "info" : "Korea | 2023 | 138min"
+
+    },
+    {
+      "img" : "screen12.png",
+      "name" : "뉴커런츠",
+      "title" : "더 레슬러",
+      "engTitle" : "The Wrestler",
+      "director" : "이퀴발 초두리 Iqbal H. CHOWDHURY",
+      "info" : "Bangladesh/Canada | 2023 | 92min"
+    },
+    {
+      "img" : "screen13.png",
+      "name" : "뉴커런츠",
+      "title" : "부모 바보",
+      "engTitle" : "Heritage",
+      "director" : "이종수 LEE Jong-su",
+      "info" : "Korea | 2023 | 101min"
+    },
+    {
+      "img" : "screen14.png",
+      "name" : "뉴커런츠",
+      "title" : "빌려온 시간",
+      "engTitle" : "Borrowed Time",
+      "director" : "초이지 CHOY Ji",
+      "info" : "China | 2023 | 93min"
+    },
+    {
+      "img" : "screen15.png",
+      "name" : "뉴커런츠",
+      "title" : "솔리드 바이 더 씨",
+      "engTitle" : "Solids by the Seashore",
+      "director" : "파티판 분타릭 Patiparn BOONTARIG",
+      "info" : "Thailand | 2023 | 93min",
+      "keyword" : "2023 ACF 후반작업지원펀드 지원작"
+    }
+   
+
+  
+]
